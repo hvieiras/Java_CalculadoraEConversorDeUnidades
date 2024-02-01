@@ -1,4 +1,4 @@
-# Calculadora e Conversor de Unidades em Java
+# Calculadora e Conversor de Unidades em JAVA
 
 Bem-vindo ao repositório do projeto feito em Java de uma Calculadora e Conversora de Unidades! Este é um projeto simples, porém para aumentar o nível de dificuldade busquei ao máximo tornar o código mais simples, limpo e objetivo possível, deixando também a interface intuitiva e minimalista para assim aperfeiçoar e deixar melhor a experiência do usuário.
 
